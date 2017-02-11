@@ -1,5 +1,7 @@
 # subnet2cidr
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/reconbot/subnet2cidr.svg)](https://greenkeeper.io/)
+
 A simple library for converting subnet masks to CIDR notation and vice versa.
 
 ## Installation
